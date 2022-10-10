@@ -8,9 +8,9 @@
 {"key":"csp_DY1990"        ,"name":"🐞九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete"         ,"name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_蓝光影视"    ,"name":"🐛蓝光影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/蓝光影视.json"},
-{"key":"csp_biubiu_奈菲影院","name":"🐛奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/biubiu/奈菲影院.json"},
-{"key":"csp_xpath_zxzj2"    ,"name":"🦋在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://11.wwzz.top/tvbox/在线之家.json"},
+{"key":"csp_biubiu_蓝光影视"    ,"name":"🐛蓝光影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yh7072.github.io/json/蓝光影视.json"},
+{"key":"csp_biubiu_奈菲影院","name":"🐛奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yh7072.github.io/json/奈菲影院.json"},
+{"key":"csp_xpath_zxzj2"    ,"name":"🦋在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yh7072.github.io/json/在线之家.json"},
 {"key":"csp_xml___诺迅资源","name":"🐝诺迅资源"   ,"type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.pangujiexi.com/pangu/?url=","searchable":1,"quickSearch":1},
 {
             "key": "瓜皮",
@@ -20,7 +20,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/1/json/gptv.json"
+            "ext":"https://yh7072.github.io/json/gptv.json"
         },
 {
             "key":"csp_xpath_libv",
@@ -30,7 +30,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/libvp.json"
+            "ext":"https://yh7072.github.io/json/libvp.json"
         },
         {
             "key": "csp_XBPQ极品影视",
@@ -40,7 +40,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/xbpqjpys.json"
+            "ext":"https://yh7072.github.io/json/xbpqjpys.json"
         },
 {
             "key": "Voflix",
@@ -50,11 +50,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
+            "ext": "https://yh7072.github.io/json/voflix.json"
         },
         {
-            "key": "ysgc",
-            "name": "        {
             "key": "ysgc",
             "name": "影视工厂(XB)",
             "type": 3,
@@ -62,7 +60,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/ysgc.json"
+            "ext": "https://yh7072.github.io/json/ysgc.json"
         }
 
 
