@@ -301,7 +301,7 @@
 "proxy://do=live&type=txt&ext=aHR0cDovL2pzLjEzNDU4NC54eXovdHYvbGl2ZS50eHQ="
 ]}]}],
 
-"spider":"http://11.wwzz.top/tvbox/custom_spider.jar",
+"spider":"https://yh7072.github.io/custom_spider.jar",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
