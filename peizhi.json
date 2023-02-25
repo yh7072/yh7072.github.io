@@ -1,5 +1,6 @@
 {
 "sites": [
+{"key":"csp_Kuaikan","name":"  👀快看  〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"date":""},
 {"key":"csp_biubiu_奈菲影院","name":"🐛奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yh7072.github.io/json/奈菲影院.json"},
 {"key":"csp_biubiu_1080在线","name":"🐛1080在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yh7072.github.io/json/1080在线.json"},
 {"key":"csp_biubiu_溪谷影视","name":"溪谷影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cainisi/TVBox/raw/master/XBiubiu/溪谷影视.json"},
