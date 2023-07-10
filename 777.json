@@ -309,7 +309,8 @@
 ]}]}],
 
 //"spider":"https://yh7072.github.io/custom_spider.jar",
-"spider":"https://yh7072.github.io/dmtv.jar",
+//"spider":"https://yh7072.github.io/dmtv.jar",
+"spider":"https://cdn.staticaly.com/gh/yh7072/yh7072.github.io/main/jar/cc.jar",
 //"spider":"https://gitee.com/cainisi/TVBox/raw/master/jar/123.jar",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
