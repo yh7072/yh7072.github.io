@@ -1,7 +1,8 @@
 //用这个更快https://xhdwc.tk/0
 
 {
-    "wallpaper": "https://xhdwc.tk/api/img.php",
+    //"wallpaper": "https://xhdwc.tk/api/img.php",
+    "wallpaper": "https://lmg.jj20.com/up/allimg/4k/s/02/2110021G30C349-0-lp.jpg",
     "spider": "https://cdn.staticaly.com/gh/yh7072/yh7072.github.io/main/jar/cc.jar",
     "lives": [
         {
