@@ -3,7 +3,8 @@
 {
     
     "wallpaper": "https://lmg.jj20.com/up/allimg/4k/s/02/2110021G30C349-0-lp.jpg",
-    "spider": "https://cdn.staticaly.com/gh/yh7072/yh7072.github.io/main/jar/cc1.jar;md5;cca6aff85e364046abad5fc1de1ed8e6",
+    //"spider": "https://cdn.staticaly.com/gh/yh7072/yh7072.github.io/main/jar/cc1.jar;md5;cca6aff85e364046abad5fc1de1ed8e6",
+    "spider": "https://cdn.staticaly.com/gh/yh7072/yh7072.github.io/main/jar/cc1.jar",
     "lives": [
         {
             "name": "tvlive",
