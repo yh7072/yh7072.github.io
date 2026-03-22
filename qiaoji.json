@@ -1,3 +1,4 @@
+
 {
   "urls": [
     {
@@ -63,6 +64,18 @@
     {
       "url": "http://www.lyyytv.cn/yt/yt.json",
       "name": "🌱影探线路"
+        },
+	 {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🔥娜宝"
+        },
+	 {
+      "url": "https://qist.wyfc.qzz.io/fty.json",
+      "name": "🔥肉肉"
+        },
+	 {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+      "name": "潇洒"
         },
     {
       "url": "http://dxawi.github.io/0/0.json",
