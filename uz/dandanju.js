@@ -5,10 +5,10 @@
 //@remark:
 //@order: B
 //@deprecated:1
-import { } from '../../core/uzVideo.js'
-import { } from '../../core/uzHome.js'
-import { } from '../../core/uz3lib.js'
-import { } from '../../core/uzUtils.js'
+import { } from 'https://yh7072.github.io/uz/uzVideo.js'
+import { } from 'https://yh7072.github.io/uz/uzHome.js'
+import { } from 'https://yh7072.github.io/uz/core/uz3lib.js'
+import { } from 'https://yh7072.github.io/uz/uzUtils.js'
 // ignore
 
 
