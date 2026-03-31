@@ -23,6 +23,14 @@
             "playerType": 2,
             "ext": "7lj763gg0939791h1l3888jig44gi291li"
         },
+       {
+      "name": "「直」蛋蛋剧",
+      "version": 2,
+      "webSite": "https://www.dandanju.tv",
+      "order": "C",
+      "api": "https://yh7072.github.io/uz/dandanju.js",
+      "type": 101
+      },
         {
             "key": "拾光",
             "name": "拾光┃秒播APP",
