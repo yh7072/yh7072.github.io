@@ -288,19 +288,19 @@
     ],
     "parses": [
         {
-            "name": "解析聚合",
+            "name": "旋风",
             "type": 3,
-            "url": "Demo"
+            "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "Json轮询",
+            "name": "8090",
             "type": 2,
-            "url": "Sequence"
+            "url": "https://www.8090g.cn/jiexi/?url="
         },
         {
-            "name": "巧技",
+            "name": "七七",
             "type": 1,
-            "url": "https://zy.qiaoji8.com/neibu.php?url=",
+            "url": "https://jx.77flv.cc/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -326,9 +326,9 @@
             }
         },
         {
-            "name": "巧技二",
+            "name": "冰豆",
             "type": 1,
-            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+            "url": "https://bd.jx.cn/?url=",
             "ext": {
                 "flag": [
                     "qq",
